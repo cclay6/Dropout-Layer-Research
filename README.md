@@ -5,3 +5,5 @@ Files:
 - Dropout_Layer_Research.ipynb
 
 Dataset: https://www.kaggle.com/c/dogs-vs-cats/data
+
+Developer: cclay6
