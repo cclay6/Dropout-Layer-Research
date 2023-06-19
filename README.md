@@ -4,6 +4,6 @@ Explored the effect of dropout layers on overfitting and classification performa
 Files:
 - Dropout_Layer_Research.ipynb
 
-Dataset: Cat and dog images are from Asirra data set (source: https://www.kaggle.com/c/dogs-vs-cats/data). The dataset dogvscat is split into training, testing, and validation datasets, and the images are labeled as cat or dog.
+Dataset: Cat and dog images are from Asirra dataset (source: https://www.kaggle.com/c/dogs-vs-cats/data). The dataset dogvscat is split into training, testing, and validation datasets, and the images are labeled as cat or dog.
 
 Developer: cclay6
